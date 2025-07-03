@@ -11,13 +11,17 @@ ffmpeg instalado y en el PATH
 pip o conda
 
 Instalación
+bash
+Copiar
+Editar
 git clone https://github.com/tuusuario/whisper-cli.git
 cd whisper-cli
 pip install -r requirements.txt
-
 Uso
+bash
+Copiar
+Editar
 python app.py
-
 Seguí las instrucciones del menú para:
 
 Transcribir un archivo de audio.
@@ -37,4 +41,3 @@ El programa soporta formatos de audio comunes: .wav, .mp3, .m4a, .ogg.
 
 Licencia
 Este proyecto está bajo licencia MIT.
-
