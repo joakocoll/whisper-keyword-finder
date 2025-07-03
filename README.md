@@ -9,7 +9,7 @@ Transcribe audios y busca coincidencias por palabras clave o frases usando Whisp
 - pip o conda
 
 ## Instalación
-```bash
+
 git clone https://github.com/tuusuario/whisper-cli.git
 cd whisper-cli
 pip install -r requirements.txt
@@ -18,7 +18,6 @@ pip install -r requirements.txt
 
 Ejecutá el script:
 
-```bash
 python app.py
 Seguí las instrucciones del menú para elegir:
 
