@@ -16,15 +16,12 @@ pip install -r requirements.txt
 
 ## Uso
 Ejecutá el script:
-
-python app.py
-
-Seguí las instrucciones del menú para elegir:
-
--Transcribir un archivo de audio.
--Buscar audios por palabras clave dentro de un directorio.
--Buscar audios por frase usando coincidencia fuzzy.
--Cambiar el modelo Whisper que se usa para la transcripción.
+-python app.py
+-Seguí las instrucciones del menú para elegir:
+-Transcribir un archivo de audio
+-Buscar audios por palabras clave dentro de un directorio
+-Buscar audios por frase usando coincidencia fuzzy
+-Cambiar el modelo Whisper que se usa para la transcripción
 
 
 ## Notas
