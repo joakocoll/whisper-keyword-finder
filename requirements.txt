@@ -1,10 +1,4 @@
-
----
-
-### 2. `requirements.txt` ✔️
-Para instalar las dependencias con `pip`:
-```txt
 openai-whisper
+torch
 fuzzywuzzy
 python-Levenshtein
-torch
